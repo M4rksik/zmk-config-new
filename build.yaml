@@ -8,7 +8,7 @@
 # Board: nice_nano_v2 and puchi_ble_v1
 # shield: corne_left nice_view_adapter nice_view,
 #         corne_right nice_view_adapter nice_view,
-#         corne_left, corne_right and settings_reset
+#         corne_left, corne_right and settings_reset 
 # =========================================
 #                              ╔═╦═╦═╗
 #                       ╔════╗ ║║║║║╔╝

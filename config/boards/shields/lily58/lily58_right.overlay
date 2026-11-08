@@ -12,3 +12,6 @@
     triggers-per-rotation = <20>;
   };
 };
+&led_strip {
+    chain-length = <21>;
+};
